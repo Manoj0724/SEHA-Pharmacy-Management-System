@@ -10,7 +10,7 @@ A clean and minimal login page template built with Bootstrap 5. Designed as a st
 Interactive modals created with Bootstrap 5 for configuration and notifications. Includes a settings popup with selectable options and a success popup with a tick icon for confirmation, ensuring smooth user interaction without custom CSS or JS.
 ### Screenshot of Main Page 
 <img width="1897" height="1003" alt="image" src="https://github.com/user-attachments/assets/fd2fd1c2-1557-4262-bfa0-54a4f97b7f14" />
-### popup's 
+#### popup's 
 🔹Settings popup <img width="1902" height="982" alt="image" src="https://github.com/user-attachments/assets/6224580d-7953-40e9-98da-c028f8f7bd87" /> 
 🔹Parked ticket popup <img width="1912" height="1002" alt="image" src="https://github.com/user-attachments/assets/39e44e91-29d2-4305-8f28-a679be438b6c" /> 
 
