@@ -4,9 +4,9 @@ A pharmacy ticket management system built using only Bootstrap 5, featuring tick
 A clean and minimal login page template built with Bootstrap 5. Designed as a starting point for authentication pages, featuring a modern layout and responsive design for seamless integration into web applications.
 ### Screenshort of Login Page
 <img width="1902" height="997" alt="image" src="https://github.com/user-attachments/assets/ea693976-027e-41d9-9ccc-de1c4b8ffbf6" />
-## 2nd Main Page 
+# 2nd Main Page 
 Interactive modals created with Bootstrap 5 for configuration and notifications. Includes a settings popup with selectable options and a success popup with a tick icon for confirmation, ensuring smooth user interaction without custom CSS or JS.
-### Screenshort of Main Page 
+## Screenshort of Main Page 
 <img width="1897" height="1003" alt="image" src="https://github.com/user-attachments/assets/fd2fd1c2-1557-4262-bfa0-54a4f97b7f14" />
 ### popup's 
 ####🔹Settings popup <img width="1902" height="982" alt="image" src="https://github.com/user-attachments/assets/6224580d-7953-40e9-98da-c028f8f7bd87" /> 
