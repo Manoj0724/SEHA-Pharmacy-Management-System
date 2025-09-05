@@ -13,7 +13,7 @@ Interactive modals created with Bootstrap 5 for configuration and notifications.
 
 #### 🔹Settings popup
 <img width="1902" height="982" alt="image" src="https://github.com/user-attachments/assets/6224580d-7953-40e9-98da-c028f8f7bd87" /> 
-#### 🔹Parked ticket popup
+##### 🔹Parked ticket popup 
 <img width="1912" height="1002" alt="image" src="https://github.com/user-attachments/assets/39e44e91-29d2-4305-8f28-a679be438b6c" /> 
 
 ## 3rd Dashboard Page ##
